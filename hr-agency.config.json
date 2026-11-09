@@ -1,0 +1,15 @@
+{
+  "agency": "TalentForge AI - HR Agency",
+  "project_manager": "chief-of-staff",
+  "employees": [
+    {"slug": "chief-of-staff", "hr_role": "Project Manager (Chief of Staff)", "hr_focus": "Audits the 7 other employees, names what stopped, owns the Sheet ledger and the daily brief"},
+    {"slug": "seo-employee", "hr_role": "Lead Researcher (Talent Market and Careers SEO/AEO)", "hr_focus": "Keyword research for job titles, careers-page articles, visibility of the company as an employer in AI answers"},
+    {"slug": "social-media-employee", "hr_role": "Content Writer (Employer Brand)", "hr_focus": "Job posts and employer-brand posts drafted per platform, held for the member's click"},
+    {"slug": "ad-manager-employee", "hr_role": "Campaign Builder (Job Ad Campaigns)", "hr_focus": "Job-ad creative sets and build sheets; money moves only on approval"},
+    {"slug": "web-dev-employee", "hr_role": "Technical Auditor (Careers Site and Application Forms)", "hr_focus": "Careers site health, broken application forms, error triage, small fixes on a branch"},
+    {"slug": "customer-satisfaction-employee", "hr_role": "Support Triage (Candidate Inbox)", "hr_focus": "Sweeps the recruiting inbox, drafts candidate replies hardest first, flags drop-off risk"},
+    {"slug": "sales-employee", "hr_role": "Outbound Strategist (Candidate Sourcing)", "hr_focus": "Prospect sweeps become candidate sweeps; first-touch outreach drafts and follow-ups"},
+    {"slug": "gtm-engineer", "hr_role": "Performance Analyst (Hiring Launch and Scoreboard)", "hr_focus": "Hiring-campaign positioning, launch board, weekly hiring scoreboard and bottleneck flags"}
+  ],
+  "ledger_columns": ["Timestamp", "Agent Name", "Task Performed", "Output Status"]
+}
